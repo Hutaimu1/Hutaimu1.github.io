@@ -1,0 +1,9 @@
+---
+slug: "music"
+title: "音乐"
+comments: "false"
+---
+
+<link rel="stylesheet" href="./ins.css"></link>
+<div class="music-btn-wrap"></div>
+<button>顺序播放</button>
